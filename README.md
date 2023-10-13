@@ -6,25 +6,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=besugos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Define a altura da tela como 100% da altura visível do navegador */
-            margin: 0; /* Remove as margens padrão do corpo */
-        }
-    </style>
-
-
 <div align="center">  
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=besugos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=besugos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wendel Bandeira github stats" />  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=besugos&langs_count=10&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=dark" alt="Gift's language"/>
 <!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besugos&layout=compact&count_private=true&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
 </div>
-<div>
-  <img align="center" justify-content="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besugos&theme=dark&count_private=true&hide_border=true" />
+<div align="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=besugos&theme=dark&count_private=true&hide_border=true" />
 </div>
 <div>
   
