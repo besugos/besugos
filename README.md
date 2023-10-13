@@ -15,12 +15,12 @@
 <div align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=besugos&theme=dark&count_private=true&hide_border=true" />
 </div>
-<div>
-  
+<div align="center">
+  <a href="https://www.linkedin.com/in/wendel-bandeira-614a01109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <a href = "mailto:besugos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
 </div>
 
-<a href="https://www.linkedin.com/in/wendel-bandeira-614a01109/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  <a href = "mailto:besugos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
