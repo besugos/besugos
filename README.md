@@ -1,3 +1,13 @@
+<style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Define a altura da tela como 100% da altura visível do navegador */
+            margin: 0; /* Remove as margens padrão do corpo */
+        }
+    </style>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003300&height=180&animation=twinkling"/>
 <img src="https://readme-typing-svg.herokuapp.com/?color=005500&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Wendel+Bandeira;Be+Welcome!"/>
 <p align="center">
