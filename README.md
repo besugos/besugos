@@ -12,7 +12,7 @@
 <!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besugos&layout=compact&count_private=true&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
 </div>
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besugos" alt="Gift's LangStat" />
+  <img align="center" justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=besugos&theme=dark" />
 </div>
 <div>
   
