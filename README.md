@@ -8,7 +8,7 @@
 <div align="center">  
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=besugos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=besugos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wendel Bandeira github stats" />  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=besugos&langs_count=10&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=dark" alt="Gift's language"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=besugos&langs_count=10&show_icons=true&count_private=true&hide_border=true&locale=en&layout=compact&theme=dark" alt="Gift's language"/>
 <!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besugos&layout=compact&count_private=true&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
 </div>
 <div>
