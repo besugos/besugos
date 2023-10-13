@@ -1,3 +1,11 @@
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003300&height=180&animation=twinkling"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=005500&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Wendel+Bandeira;Be+Welcome!"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=besugos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 <style>
         body {
             display: flex;
@@ -7,12 +15,6 @@
             margin: 0; /* Remove as margens padrão do corpo */
         }
     </style>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003300&height=180&animation=twinkling"/>
-<img src="https://readme-typing-svg.herokuapp.com/?color=005500&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Wendel+Bandeira;Be+Welcome!"/>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=besugos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 
 <div align="center">  
